@@ -1,0 +1,3 @@
+/home/andres/P4/ComputerEngineering_Practice3-main/build/CMakeFiles/cv.dir
+/home/andres/P4/ComputerEngineering_Practice3-main/build/CMakeFiles/edit_cache.dir
+/home/andres/P4/ComputerEngineering_Practice3-main/build/CMakeFiles/rebuild_cache.dir
